@@ -8,9 +8,10 @@
 
 The currently supported platforms for my fish shell configurations are:
 
-- [Mac](#) - All mac / OSX installs
-- [Linux](#) - Linux Desktop installations
-- [msys2](#) - Windows msys2 installations
+- [mac](https://github.com/8rents/fish/tree/mac) - All mac / OSX installs
+- [linux](https://github.com/8rents/fish/tree/linux) - Debian Linux Desktop installations
+- [server](https://github.com/8rents/fish/tree/server) - Debian Linux installations without a desktop
+- [msys2](https://github.com/8rents/fish/tree/msys2) - Windows msys2 installations
 
 ### Non-Platform Branches
 
