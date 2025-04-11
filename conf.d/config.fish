@@ -1,1 +1,1 @@
-# Linux Desktop `conf.d/config.fish`. Loaded before root config.fish file
+# Debian Server `conf.d/config.fish`. Loaded before root config.fish file
