@@ -1,2 +1,5 @@
-# fish
-My Settings for Fish Shell. Branched by Platform
+# `linux` Fish Shell Configuration
+
+>  *My Settings for Fish Shell on Linux Desktop Machines*
+
+---
