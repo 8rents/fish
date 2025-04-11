@@ -1,2 +1,5 @@
-# fish
-My Settings for Fish Shell. Branched by Platform
+# `mac` fish shell configuration
+
+> *My Settings for Fish Shell. Branched by Platform*
+
+---
