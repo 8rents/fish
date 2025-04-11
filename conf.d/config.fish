@@ -1,0 +1,1 @@
+# msys2 conf.d/config.fish file (loaded before root conf.fish)
