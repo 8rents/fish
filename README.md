@@ -6,4 +6,4 @@
 
 ## License 
 
-All files in this repository are filed under the MIT license type. For the actual license file please reffer to the [`info` branch](https://github.com/8rents/fish/blob/info/LICENSE).
+All files in this repository are filed under the MIT license type. For the [actual MIT license file](https://github.com/8rents/fish/blob/info/LICENSE) please reffer to the `info` branch.
