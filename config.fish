@@ -1,1 +1,1 @@
-# Linux Desktop `config.fish`
+# Debian Server `config.fish`
