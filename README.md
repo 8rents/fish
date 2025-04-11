@@ -1,5 +1,5 @@
-# `linux` Fish Shell Configuration
+# `server` Fish Shell Configuration
 
->  *My Settings for Fish Shell on Linux Desktop Machines*
+>  *My settings for Fish Shell on Linux Machines that do not have a desktop*
 
 ---
