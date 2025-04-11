@@ -1,0 +1,1 @@
+# mac config.fish file
