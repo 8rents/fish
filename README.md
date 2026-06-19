@@ -1,9 +1,5 @@
-**Fish Shell**
+# Fish Shell config for Android
 
----
-
-# `linux` Fish Shell Configuration
-
->  *My Settings for Fish Shell on Linux Desktop Machines*
+>  *My Settings for Fish Shell on Android*
 
 ---
